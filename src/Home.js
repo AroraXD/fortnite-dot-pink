@@ -29,7 +29,7 @@ function Home() {
                 target="_blank" 
                 rel="noopener noreferrer"
             >
-                If you want to support us use code breakfastXD in the fortnite item shop
+                If you want to support me use code breakfastXD in the fortnite item shop
             </a>
             <a
                 className="itemshop-link"
