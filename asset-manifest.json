@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fortnite.pink/static/css/main.bb40b2b5.css",
-    "main.js": "/fortnite.pink/static/js/main.3c651014.js",
+    "main.js": "/fortnite.pink/static/js/main.2ad79779.js",
     "static/js/453.5a06352d.chunk.js": "/fortnite.pink/static/js/453.5a06352d.chunk.js",
     "static/media/dotpink-logo-v3.png": "/fortnite.pink/static/media/dotpink-logo-v3.ff28731b4d4619528f2c.png",
     "index.html": "/fortnite.pink/index.html",
     "main.bb40b2b5.css.map": "/fortnite.pink/static/css/main.bb40b2b5.css.map",
-    "main.3c651014.js.map": "/fortnite.pink/static/js/main.3c651014.js.map",
+    "main.2ad79779.js.map": "/fortnite.pink/static/js/main.2ad79779.js.map",
     "453.5a06352d.chunk.js.map": "/fortnite.pink/static/js/453.5a06352d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb40b2b5.css",
-    "static/js/main.3c651014.js"
+    "static/js/main.2ad79779.js"
   ]
 }
